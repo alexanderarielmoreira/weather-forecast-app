@@ -7,8 +7,13 @@ body {
 }
 
 .input-group {
-  width: 65% !important; 
+  width: 70% !important; 
 }
 
+.card {
+  max-width: 80%; 
+  margin-left: 10%; 
+  
+}
 
 
